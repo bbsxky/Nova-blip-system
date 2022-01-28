@@ -1,1 +1,3 @@
-# Nova_blip_system
+# Nova-blip-system
+
+a simple script for creating blips :)
