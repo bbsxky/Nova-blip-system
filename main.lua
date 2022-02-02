@@ -1,5 +1,3 @@
-local ESX = exports['es_extended']:getSharedObject()
-
 Citizen.CreateThread(function()
 	for i=1, #Config.blip, 1 do
 		local blip = AddBlipForCoord(Config.blip[i].x, Config.blip[i].y, Config.blip[i].z)
